@@ -4,7 +4,7 @@
 
 <section>
   <aside>
-    <h3>Movie geek</h3>
-    <b>moviegeek@fakeemail.com</b>
+    <h3>Show geek</h3>
+    <b>showgeek@fakeemail.com</b>
   </aside>
 </section>
