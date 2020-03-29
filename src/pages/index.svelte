@@ -1,9 +1,9 @@
 <header>
   <nav>
-    <h1>Movie Geek</h1>
+    <h1>show Geek</h1>
     <ul>
       <li>
-        <a href="/movies">Recommended movies</a>
+        <a href="/shows">Recommended shows</a>
       </li>
       <li>
         <a href="/contact">Contact</a>
@@ -14,6 +14,6 @@
 
 <main>
   <header>
-    <h1>Welcome to my movie recommendations.</h1>
+    <h1>Welcome to my show recommendations.</h1>
   </header>
 </main>
