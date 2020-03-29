@@ -1,9 +1,11 @@
 <header>
-  <nav style="border-bottom: 1px solid black">
-    <h1>Movie Geek</h1>
+  <nav>
+    <h1>
+      <a href="/">Show Geek</a>
+    </h1>
     <ul>
       <li>
-        <a href="/movies">Recommended movies</a>
+        <a href="/shows">Recommended shows</a>
       </li>
       <li>
         <a href="/contact">Contact</a>
