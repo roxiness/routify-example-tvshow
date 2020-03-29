@@ -382,3 +382,5 @@ blockquote footer {
 }
 
 /* Custom styles */
+a {text-decoration: none;}
+a:hover {text-decoration: none;}
