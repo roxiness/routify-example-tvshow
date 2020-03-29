@@ -1,13 +1,15 @@
 <header>
-  <h3>My recommended movies to watch this month are</h3>
-  <a href="/movies/suggest">Suggest a movie</a>
+  <h3>My recommended shows to watch this month are</h3>
+  <a href="/shows/suggest">Suggest a show</a>
 </header>
 
 <section>
-  <aside>MacGruber (2010)</aside>
-  <aside>Mad Max: Fury Road (2015)</aside>
-  <aside>The Usual Suespects (1995)</aside>
-  <aside>Trading Places (1983)</aside>
-  <aside>Trainspotting (1996)</aside>
-  <aside>Alien (1979)</aside>
+  <aside>Fargo (2014)</aside>
+  <aside>The Wire (2002)</aside>
+  <aside>Community (2009)</aside>
+  <aside>True Detective (2014)</aside>
+  <aside>Scrubs (2001)</aside>
+  <aside>Cobra Kai (2018)</aside>
+  <aside>Seinfeld (1989)</aside>
+  <aside>It's Always Sunny in Philadelphia (2005)</aside>
 </section>
