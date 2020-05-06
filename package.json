@@ -19,7 +19,6 @@
     "del": "^5.1.0",
     "ppid-changed": "^1.0.1",
     "rollup": "^1.2.0",
-    "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-copy": "^3.2.1",
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^5.0.3",
